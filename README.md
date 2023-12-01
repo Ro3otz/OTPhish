@@ -1,2 +1,2 @@
 # OTPhish
-Otp Phishing
+2FA Phishing & python main.py
